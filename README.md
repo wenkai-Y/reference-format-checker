@@ -40,7 +40,7 @@
 1. 下载本仓库(`Code → Download ZIP`),或克隆:
 
    ```bash
-   git clone https://github.com/<你的用户名>/reference-format-checker.git
+   git clone https://github.com/wenkai-Y/reference-format-checker.git
    ```
 2. 进入仓库目录,把内层的 `reference-format-checker/` 文件夹**单独压缩成 zip**
    - macOS:右键文件夹 → "压缩"
